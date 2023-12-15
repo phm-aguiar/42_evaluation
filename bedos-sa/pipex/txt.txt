@@ -1,0 +1,1 @@
+       Email  bug   reports   to   the   bug-reporting   address   ⟨bug-grep@gnu.org⟩.    An   email   archive   ⟨https://lists.gnu.org/mailman/listinfo/bug-grep⟩   and   a   bug   tracker
